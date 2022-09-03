@@ -1,7 +1,7 @@
 package lexer
 
 import (
-	"bajrang/token"
+	"bajrang/Lexer-Bajrang/token"
 )
 
 type Lexer struct {
